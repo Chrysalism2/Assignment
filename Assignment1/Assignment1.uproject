@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DC4FFAC7-4168-F69F-6242-12B0DE88FF9F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Assignment1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
